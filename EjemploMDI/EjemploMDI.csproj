@@ -65,6 +65,7 @@
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
     <Compile Include="GenericSingleton.cs" />
+    <Compile Include="IMantenimiento.cs" />
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
     </Compile>
